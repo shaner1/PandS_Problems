@@ -11,7 +11,7 @@ now = datetime.datetime.now()
 #Define the variable day
 day = now.weekday()
 
-#If day is less than 4, than it will be a weekday.
+#If day is less than 4, than it will be a weekday.  
 if day < 4:
     print(message1)
 else:
