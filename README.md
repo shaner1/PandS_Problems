@@ -45,6 +45,7 @@ This program takes a positive floating-point number as an input and outputs an a
 
 (https://www.youtube.com/watch?v=tUFzOLDuvaE)
 
+
 - ### Task_7: Files
 
 This program is supposed to read in a text file and outputs the number of e's it contains. Im nt sure if i complete this task properly. I tried to get the program to list out all the files in the current folder for user so they could select from the list to read, but i couldnt get it to work.
@@ -52,6 +53,10 @@ This program is supposed to read in a text file and outputs the number of e's it
 - ### Task_8: Looking Ahead
 
 This program displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes. This task wasnt too difficult and a good example of things to come.
+
+(https://realpython.com/python-matplotlib-guide/)
+(https://docs.python.org/3/tutorial/classes.html#python-scopes-and-namespaces)
+(https://numpy.org/)
 
 ## How to Use 
 
