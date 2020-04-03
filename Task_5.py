@@ -16,3 +16,4 @@ if day < 4:
     print(message1)
 else:
     print(message2)
+

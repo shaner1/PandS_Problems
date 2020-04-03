@@ -12,4 +12,5 @@ h2 = (height/100)**2
 #bmi = weight in kg / height squared in cm
 bmi = int(weight//h2)
 
+#prints out the users BMI 
 print ("Your BMI is", bmi)

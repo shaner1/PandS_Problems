@@ -21,9 +21,9 @@ def sqrt(x):
     return guess
 
 #takes a value from the user to find the square root
-a = float(input( "Please enter a postive integer: "))
+userValue = float(input( "Please enter a postive integer: "))
 #if the value is negative the function will not run
-if a < 0:
+if userValue < 0:
     print("Value entered is not a positive number")
 else:
-    print("The approximate square of", a, "is", (round(sqrt(a),4)))
+    print("The approximate square of", userValue, "is", (round(sqrt(userValue),4)))

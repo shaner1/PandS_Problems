@@ -38,6 +38,9 @@ This program asks the user to input any positive integer, which it uses to outpu
 - ### Task_5: Data
 This program outputs whether or not today is a weekday. 
 This was simple enough but very interesting as it was the first time i used the import function.
+(https://docs.python.org/2/library/datetime.html#)
+(https://realpython.com/python-lists-tuples/)
+(https://realpython.com/python-dicts/)
 
 - ### Task_6: Function
 
